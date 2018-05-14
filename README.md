@@ -31,9 +31,7 @@ How to run
 ===========
 
 This project is a homework  <br />
-I do not allow using it as homework for any student <br />
-Otherwise allow it to be used <br />
-So do not commit academic dishonesty.
+For reference use only. <br />
 
 # License
 
